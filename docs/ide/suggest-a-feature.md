@@ -18,7 +18,7 @@ We've introduced a new experience for suggesting features alongside the current 
 
 ![Suggest a Feature button on Developer Community](media/suggest-a-feature/suggest-feature-button.png)
 
-You can also start a feature suggestion directly from Visual Studio by choosing **Provide a Suggestion** from the **Provide Feedback** icon near the top right of the main Visual Studio window:
+You can also start a feature suggestion directly from Visual Studio by choosing **Provide a Suggestion** from the **Send Feedback** icon near the top right of the main Visual Studio window:
 
 ![Provide a Suggestion menu in Visual Studio](media/suggest-a-feature/provide-suggestion.png)
 
